@@ -19,7 +19,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Hcer un programa que imprime un mensaje usando funciones.
+Objetivo: Hacer un programa que imprime un mensaje usando funciones.
 <br>
 <br>
 <p>Breve descripción:
